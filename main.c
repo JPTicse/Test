@@ -1,3 +1,3 @@
-#ifndef
-#define
+#ifndef PRINTF
+#define PRINTF
 #endif
