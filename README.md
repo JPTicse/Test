@@ -1,4 +1,7 @@
-<img src="https://i0.wp.com/zoomempresarial.pe/wp-content/uploads/2020/12/holberton-school-peru.jpg?resize=1140%2C631&ssl=1----" alt="">
+<h1 align ="center">
+<img src="https://assets.website-files.com/6105315644a26f77912a1ada/610540e8b4cd6969794fe673_Holberton_School_logo-04-04.svg" height="60%" width="50%">
+</h1>
+
 # Printf
 
 ## Synopsis
