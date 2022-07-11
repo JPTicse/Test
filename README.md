@@ -1,4 +1,4 @@
-<h1 align ="left">
+<h1 align ="center">
 <img src="https://assets.website-files.com/6105315644a26f77912a1ada/610540e8b4cd6969794fe673_Holberton_School_logo-04-04.svg" height="60%" width="50%">
 </h1>
 
@@ -59,5 +59,7 @@ int main(void)
 ```
 
 ## Autors
+<h2 align ="center">
 | [<img src="https://avatars.githubusercontent.com/u/64811637?v=4" width=115><br><sub> Juan Ticse </sub>](https://github.com/JPTicse) |  [<img src="https://avatars.githubusercontent.com/u/69946309?v=4" width=115><br><sub>Franco Cardenas </sub>](https://github.com/gustavofranco26) |
 | :---: | :---: | 
+</h2>
