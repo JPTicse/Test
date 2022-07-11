@@ -1,3 +1,4 @@
+<img src="https://i0.wp.com/zoomempresarial.pe/wp-content/uploads/2020/12/holberton-school-peru.jpg?resize=1140%2C631&ssl=1----" alt="">
 # Printf
 
 ## Synopsis
@@ -55,5 +56,5 @@ int main(void)
 ```
 
 ## Autors
-| [<img src="https://avatars.githubusercontent.com/u/100174476?v=4" width=115><br><sub> Wilson Valer </sub>](https://github.com/WilsonValer) |  [<img       src="https://avatars.githubusercontent.com/u/101225802?v=4" width=115><br><sub>Aaron Jauregui </sub>](https://github.com/aaronJau21) |
+| [<img src="https://avatars.githubusercontent.com/u/64811637?v=4" width=115><br><sub> Juan Ticse </sub>](https://github.com/JPTicse) |  [<img src="https://avatars.githubusercontent.com/u/69946309?v=4" width=115><br><sub>Franco Cardenas </sub>](https://github.com/gustavofranco26) |
 | :---: | :---: | 
